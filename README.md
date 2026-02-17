@@ -10,8 +10,8 @@ Samples CPU, memory and disk/network IO from Docker container cgroups at high fr
 
 ## Prerequisites
 - Linux with cgroup v2
-- uv
-- go1.25.6 or later
+- [uv](https://docs.astral.sh/uv/getting-started/installation/)
+- [go1.21 or later](https://go.dev/doc/install)
 
 ## Install
 
